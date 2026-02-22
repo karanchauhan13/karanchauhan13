@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **INT.MSC.IT FINTECH**
 
-- 💬 Ask me about **React**
+- 💬 explore the new technologies aligns within my career & interests 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
