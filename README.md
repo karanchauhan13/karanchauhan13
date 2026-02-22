@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm chauhan karan</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">learning about technology and coding </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanchauhan13&label=Profile%20views&color=0e75b6&style=flat" alt="karanchauhan13" /> </p>
